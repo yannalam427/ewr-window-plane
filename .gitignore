@@ -1,0 +1,7 @@
+# Secrets: OpenSky API credentials live here
+.env
+
+__pycache__/
+*.pyc
+*.log
+*.bak
